@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python, JS, CSS, HTML
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on apps
-- 📫 How to reach me https://tg.me
+- 📫 How to reach me https://t.me/nicknovo
