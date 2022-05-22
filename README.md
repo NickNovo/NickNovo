@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicknovo
-- 👀 I’m interested in Python, JS, CSS, HTML
+- 👀 I’m interested in Python, JS
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on apps
-- 📫 How to reach me https://t.me/nicknovo
+- 💞️ I want to participate in app development
+- 📫 How to reach me https://t.me/novo_nk
